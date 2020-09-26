@@ -1,0 +1,52 @@
+[
+    {
+        "titulo": "La La Land: Cantando Estações",
+        "genero": "Musical",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Mulan",
+        "genero": "Animação",
+        "ano": "1998"
+    },
+    {
+        "titulo": "Divertida Mente",
+        "genero": "Animação",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Orgulho e Preconceito",
+        "genero": "Drama",
+        "ano": "2005"
+    },
+    {
+        "titulo": "Intocáveis",
+        "genero": "Drama",
+        "ano": "2011"
+    },
+    {
+        "titulo": "À Procura da Felicidade",
+        "genero": "Drama biográfico",
+        "ano": "2006"
+    },
+    {
+        "titulo": "O Menino que Descobriu o Vento",
+        "genero": "Drama biográfico",
+        "ano": "2019"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "genero": "Thriller",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Gladiador",
+        "genero": "Ação",
+        "ano": "2000"
+    },
+    {
+        "titulo": "O Jogo da Imitação",
+        "genero": "Drama histórico-biográfico",
+        "ano": "2014"
+    }
+]
