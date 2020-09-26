@@ -1,0 +1,52 @@
+[
+    {
+        "cidade": "Recife",
+        "pais": "Brasil",
+        "anoVisitado": "2020"
+    },
+    {
+        "cidade": "Kyoto",
+        "pais": "Japão",
+        "anoVisitado": "2020"
+    },
+    {
+        "cidade": "Ville de Québec",
+        "pais": "Canadá",
+        "anoVisitado": "2019"
+    },
+    {
+        "cidade": "Johannesburgo",
+        "pais": "África do Sul",
+        "anoVisitado": "2018"
+    },
+    {
+        "cidade": "Chicago",
+        "pais": "Estados Unidos",
+        "anoVisitado": "2017"
+    },
+    {
+        "cidade": "Ciudad del Leste",
+        "pais": "Paraguai",
+        "anoVisitado": "2006"
+    },
+    {
+        "cidade": "Dubai",
+        "pais": "Emirados Árabes Unidos",
+        "anoVisitado": "2020"
+    },
+    {
+        "cidade": "Nova York",
+        "pais": "Estados Unidos",
+        "anoVisitado": "2009"
+    },
+    {
+        "cidade": "Jericoacoara",
+        "pais": "Brasil",
+        "anoVisitado": "2015"
+    },
+    {
+        "cidade": "Tokyo",
+        "pais": "Japão",
+        "anoVisitado": "2020"
+    }
+]
