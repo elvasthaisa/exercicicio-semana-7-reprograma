@@ -1,0 +1,52 @@
+[
+    {
+        "pais": "Irlanda do Norte",
+        "lugares": ["Belfast", "Calçada dos Gigantes", "Carrick-a-Rede Rope Bridge"],
+        "idioma": "irlandês"
+    },
+    {
+        "pais": "França",
+        "lugares": ["Toulouse", "Côte d'Azur", "Paris", "Estrasburgo", "Annecy"],
+        "idioma": "francês"
+    },
+    {
+        "pais": "Brasil",
+        "lugares": ["Amazonas", "Pará", "Mato Grosso do Sul", "Mato Grosso", "Fernando de Noronha"],
+        "idioma": "português"
+    },
+    {
+        "pais": "Itália",
+        "lugares": ["Milão", "Roma", "Verona", "Veneza"],
+        "idioma": "italiano"
+    },
+    {
+        "pais": "Grécia",
+        "lugares": ["Zakynthos", "Athenas", "Mykonos", "Santorini"],
+        "idioma": "grego"
+    },
+    {
+        "pais": "Portugal",
+        "lugares": ["Lisboa", "Porto", "Coimbra", "Elvas"],
+        "idioma": "português"
+    },
+    {
+        "pais": "Espanha",
+        "lugares": ["Barcelona", "Sevilha", "Madri", "Granada"],
+        "idioma": "espanhol"
+    },
+    {
+        "pais": "Suíça",
+        "lugares": ["Genebra", "Berna"],
+        "idioma": ["alemão", "francês", "italiano", "romanche"]
+    },
+    {
+        "pais": "Austrália",
+        "lugares": ["Sydney", "Tasmânia"],
+        "idioma": "inglês australiano"
+    },
+    {
+        "pais": "Egito",
+        "lugares": ["Cairo", "Marsa Alam", "Alexandria"],
+        "idioma": "árabe"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "banda": "Queen",
+        "genero": "rock",
+        "integrantes": ["Freddie Mercury", "Brian May", "John Deacon", "Roger Taylor"],
+        "formacao": "1970"
+    },
+    {
+        "banda": "The Beatles",
+        "genero": "rock",
+        "integrantes": ["John Lennon", "Brian May", "John Deacon", "Roger Taylor"],
+        "formacao": "1960"
+    },
+    {
+        "banda": "The Bee Gees",
+        "genero": "pop",
+        "integrantes": ["Barry Gibb", "Robin Gibb", "Maurice Gibb"],
+        "formacao": "1958"
+    },
+    {
+        "banda": "Red Hot Chili Peppers",
+        "genero": "rock",
+        "integrantes": ["Anthony Kiedis", "Michael Balzary (Flea)", "Chad Smith", "John Frusciante"],
+        "formacao": "1983"
+    },
+    {
+        "banda": "The Scorpions",
+        "genero": "hard rock",
+        "integrantes": ["Klaus Meine", "Rudolf Schenker", "Matthias Jabs", "Pawel Maciwoda", "Mikkey Dee"],
+        "formacao": "1965"
+    },
+    {
+        "banda": "Coldplay",
+        "genero": "pop rock",
+        "integrantes": ["Chris Martin", "Jonny Buckland", "Guy Berryman", "Will Champion"],
+        "formacao": "1996"
+    },
+    {
+        "banda": "Arctic Monkeys",
+        "genero": "indie rock",
+        "integrantes": ["Alex Turner", "Jamie Cook", "Nick O'Malley", "Matt Helders"],
+        "formacao": "2002"
+    },
+    {
+        "banda": "Charlie Brown Jr",
+        "genero": "rock alternativo",
+        "integrantes": ["Chorão", "Champignon", "Thiago Castanho", "Marcão", "Bruno Graveto", "Renato Pelado", "André Pinguim Ruas", "Heitor Gomes"],
+        "formacao": "1992"
+    },
+    {
+        "banda": "Engenheiros do Hawaii",
+        "genero": "rock",
+        "integrantes": ["Humberto Gessinger", "Carlos Stein", "Marcelo Pitz", "Carlos Maltz"],
+        "formacao": "1985"
+    },
+    {
+        "banda": "Skank",
+        "genero": "rock",
+        "integrantes": ["Samuel Rosa", "Henrique Portugal ", "Lelo Zaneti", "Haroldo Ferretti"],
+        "formacao": "1990"
+    }
+]

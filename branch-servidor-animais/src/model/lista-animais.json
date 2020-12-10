@@ -1,0 +1,62 @@
+[
+    {
+        "animal": "Urso panda",
+        "pais": "China",
+        "pesoMedio": "100 kg",
+        "id": 1
+    },
+    {
+        "animal": "Onça pintada",
+        "pais": "Brasil",
+        "pesoMedio": "90 kg",
+        "id": 2
+    },
+    {
+        "animal": "Gambá",
+        "pais": "Brasil",
+        "pesoMedio": "4 kg",
+        "id": 3
+    },
+    {
+        "animal": "Baleia Azul",
+        "pais": "mares da Antártida e Pacífico Norte",
+        "pesoMedio": "180 toneladas",
+        "id": 4
+    },
+    {
+        "animal": "Morcego gigante australiano",
+        "pais": "Austrália",
+        "pesoMedio": "1 kg",
+        "id": 5
+    },
+    {
+        "animal": "Cervo",
+        "pais": "Japão",
+        "pesoMedio": "125 kg",
+        "id": 6
+    },
+    {
+        "animal": "Macaco da neve",
+        "pais": "Japão",
+        "pesoMedio": "11 kg",
+        "id": 7
+    },
+    {
+        "animal": "Iguana",
+        "pais": "México",
+        "pesoMedio": "9 kg",
+        "id": 8
+    },
+    {
+        "animal": "Castor",
+        "pais": "América do Norte (Canadá)",
+        "pesoMedio": "16 kg",
+        "id": 9
+    },
+    {
+        "animal": "Peixe-unicórnio",
+        "pais": "África",
+        "pesoMedio": "7 kg",
+        "id": 10
+    }
+]
